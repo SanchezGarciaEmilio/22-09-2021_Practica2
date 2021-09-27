@@ -1,7 +1,7 @@
 # Segunda practica
 ### MongoDB
 
-Segunda practica de SGDB donde instalaremos y usaremos node.js.
+Segunda practica de SGDB donde instalaremos y usaremos `node.js`.
 
 # Código 🔎
 
