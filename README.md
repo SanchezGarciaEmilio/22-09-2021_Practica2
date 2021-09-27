@@ -13,20 +13,9 @@ Probaremos distintos archivos de `TypeScript`:
 *[ejercicio02.ts](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio02.ts)*
 ```
 
-
-
-
 # Documentación 📝
 
-En la carpeta de *[documentation](https://github.com/SanchezGarciaEmilio/2021-03-08_proyecto/tree/main/doc)*(doc) hemos incluido las nociones teóricas necesarias para este proyecto en el archivo de *[teoria](https://github.com/SanchezGarciaEmilio/2021-03-08_proyecto/blob/main/doc/Teoria.pdf)*.
-
-También hemos añadido una carpeta nueva llamada *[Graphs](https://github.com/SanchezGarciaEmilio/2021-03-08_proyecto/tree/main/doc/Graphs)*, donde hemos incluido las gráficas creadas en este proyecto.
-
-
-
-# Fuente(s) 💾
-
-Gran parte de los datos usados en este proyecto han sido imaginarios, pero otros hemos hecho uso de otras páginas para ayudarnos a completarlos, como los nombres de los donantes y los pacientes. Para ello hemos usado la web de *[mockaroo](https://mockaroo.com)*.
+En la carpeta de *[documentation](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/tree/main/doc)*(doc) hemos incluido las nociones teóricas necesarias para este proyecto en el archivo del *[manual de node](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/doc/Manual_node.pdf)*.
 
 
 
