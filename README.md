@@ -6,12 +6,12 @@ Segunda practica de SGDB donde instalaremos y usaremos node.js.
 # Código 🔎
 
 Probaremos distintos archivos de `TypeScript`:
-```
+
 *[ejercicio01.js](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio01.js)*
 *[ejercicio01.ts](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio01.ts)*
 *[ejercicio01.js](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio02.js)*
 *[ejercicio02.ts](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio02.ts)*
-```
+
 
 # Documentación 📝
 
